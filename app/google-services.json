@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084099943498",
+    "project_id": "chatactivity-f6f5c",
+    "storage_bucket": "chatactivity-f6f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084099943498:android:2f4bed788449c251055ab3",
+        "android_client_info": {
+          "package_name": "com.seyma.chatactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nT2a3PFTeM0mtGIG2AQHbyU9fcLae9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
